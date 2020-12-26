@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color:white(212, 212, 212);
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    background-color:  rgb(212, 212, 212);
+    border-radius: 10px;
+    margin:0 auto;
+    
+
+}
+h1 {
+    padding-top: 2rem;
+}
+div {
+    width:85%;
+    height:34rem;
+    background-color: white;
+    margin:0 auto; /* make it on the center of the page */
+    border-radius: 10px;
+}
+img {
+    width:60%;
+    height:30rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+}
+.timeline {
+    padding-top: 2rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+ul {
+    list-style-type: none;
+}
+blockquote {
+    padding-top: 1rem;
+    font-size: 1.1rem;
+}
+cite {
+    background-color: white;
+}
+footer {
+    font-size:1.1rem;
+    font-weight: bold;
+    padding-bottom: 1.5rem;
+}
+li {
+    margin-top: .5rem;
+}
